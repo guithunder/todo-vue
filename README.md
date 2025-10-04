@@ -37,4 +37,4 @@ Marcar como Concluída (Toggle): Clique no texto da tarefa para riscá-la e visu
 
 Estilização Minimalista: O design é limpo e direto, usando CSS simples com style scoped.
 
- SIM empolguei um pouco ai ai
+ SIM empolguei um pouco :)
